@@ -89,3 +89,5 @@ By default, the `keyboard.py` use the first button as the switch between devices
 ### The case
 
 The 3D-printed case is uploaded to the [CAD](/cad/) folder. Although I've added some tolerance to the case, you might need to file/sand the case a bit to make it fit perfectly.
+
+The top part should be printed with translucent filament, so that the LEDs can be seen. The bottom part can be printed with any color you like.
