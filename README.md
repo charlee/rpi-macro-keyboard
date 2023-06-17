@@ -39,7 +39,7 @@ You can use the legs of resistors / LEDs as the wires. I used LED legs since the
 
 ![Assembly](schematic/rpi-macro-keyboard-assembly.png)
 
-The following schematic shows the wiring of the keyboard.
+The following schematic shows the wiring of the keyboard.  The four LEDs are of color red, yellow, blue, and green, but you can use any color you like. The values of the resistors are not critical, but they should keep the current between 1mA - 5mA. (Since the LEDs are used as indicators. there's no need to use 20mA as the maximum current.)
 
 ![Schematic](schematic/rpi-macro-keyboard-schematic.png)
 
