@@ -84,3 +84,8 @@ By default, the `keyboard.py` use the first button as the switch between devices
 - `kbd`: `Keyboard` object, can be used to send key presses. [doc](https://docs.circuitpython.org/projects/hid/en/latest/api.html#adafruit_hid.keyboard.Keyboard)
 - `mouse`: `Mouse` object, can be used to send mouse events. [doc](https://docs.circuitpython.org/projects/hid/en/latest/api.html#adafruit_hid.mouse.Mouse)
 
+
+
+### The case
+
+The 3D-printed case is uploaded to the [CAD](/cad/) folder. Although I've added some tolerance to the case, you might need to file/sand the case a bit to make it fit perfectly.
